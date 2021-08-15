@@ -2,3 +2,5 @@ baseURL = "https://aoi.builders/"
 languageCode = "en-us"
 title = "Aoi's blog"
 theme = "etch"
+
+disqusShortname="aoi-builders-disqus-com"
